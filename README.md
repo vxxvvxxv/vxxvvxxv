@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vxxvvxxv
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Golang, React
-- 💞️ I’m looking to collaborate on my B2B projects (which currently using business)
+- 💞️ I’m looking to collaborate on my B2B projects (which currently using by business)
 - 📫 How to reach me at Telegram: @vxxvvxxv
 
 <!---
