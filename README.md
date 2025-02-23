@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Golang, React
 - 💞️ I’m looking to collaborate on my B2B projects (which currently using by business)
 
-[![SkillIcons](https://skillicons.dev/icons?i=go,rust,postgres,arch,bash,neovim,grafana,prometheus,nginx,redis,kubernetes,docker,github,gitlab,git,nodejs,pnpm,electron,tauri,vite,nextjs,js,html,css,tailwind,swift)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=go,rust,postgres,arch,bash,grafana,prometheus,nginx,redis,kubernetes,docker,github,gitlab,git,nodejs,pnpm,electron,tauri,vite,nextjs,js,html,css,tailwind,swift)](https://skillicons.dev)
 
 <!---
 vxxvvxxv/vxxvvxxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
